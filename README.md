@@ -7,12 +7,13 @@
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Screenshot](#screenshot)
+* [Release APK](#release-apk)
 * [Contact](#contact)
 * [Contributors](#contributors)
 
 ## General info
 Hiring Channel app is a simple application to connect companies with job seekers. This project for handle frontend only. Built using ReactNative.
-ReactNative is A JavaScript framework for building user interfaces. [More about ReactJs](https://facebook.github.io/react-native/)
+ReactNative is A JavaScript framework for building user interfaces. [More about ReactNative](https://facebook.github.io/react-native/)
 
 ## Built With
 Project is created with:
@@ -71,7 +72,7 @@ Steps to run this project:
 
 
 ## Release APK
-<a href="#">
+<a href="https://drive.google.com/open?id=1rVy7rNOuWNi2oPRcOJw--EbIyRrvjNVf">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
